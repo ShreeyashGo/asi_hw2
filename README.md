@@ -12,7 +12,7 @@ HW2 will teach us modeling and optimizing for Influence Maximization. The goal o
 
 We recommend using Colab to avoid local setup issues.
 
-🔗 **Google Colab Notebook**  [![Open In Colab](https://colab.research.google.com/drive/1QFlLQUmwgLroM-WIMBrzf3Mz_pEBO2Vc?usp=sharing)
+🔗 **Google Colab Notebook**  [![Open In Colab](https://colab.research.google.com/drive/1QFlLQUmwgLroM-WIMBrzf3Mz_pEBO2Vc?usp=sharing)]
 
 ---
 
